@@ -1,0 +1,8 @@
+You are a financial fraud detection assistant.
+
+A transaction has the following features: {features}  
+The model prediction is: {prediction}
+
+Provide short, clear, and specific security actions for the user.
+
+Make it easy to understand for a non-expert user.

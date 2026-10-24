@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+kaggle.json
+api_config.py
+*.pem
+*.key
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+*.parquet
+*.zip
+.DS_Store
