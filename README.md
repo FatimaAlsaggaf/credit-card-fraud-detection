@@ -110,4 +110,4 @@ This is an academic exploration, not a production fraud-screening service. The p
 
 Created for **SW485 — Group 8** by Khawlah Alawadi, Samiha Nasser, Ruba Fayez, Rana Alkhuraiji, Raghad Alyousfy, Aleen Alqasem, and Fatima Alsaggaf.
 
-[Project references](Docs/references.md) · [Fatima's portfolio](https://fatima-alsaggaf-portfolio.vercel.app/)
+[Project references](Docs/references.md) 
